@@ -7,7 +7,6 @@
       'defines': [
         'HAVE_IMAGE_HASH',
         'cimg_verbosity=0',
-        'cimg_use_png',
         'cimg_use_jpeg',
       ],
       'include_dirs': [
